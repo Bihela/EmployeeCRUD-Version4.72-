@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD0BB28-FA91-441F-93D8-5B3D14F5496E}|WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo.csproj|c:\\users\\bihela.wanasekara\\documents\\testing\\webapicrudcodefirstdemo\\webapicrudcodefirstdemo\\migrations\\202404100631346_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD0BB28-FA91-441F-93D8-5B3D14F5496E}|WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo.csproj|solutionrelative:webapicrudcodefirstdemo\\migrations\\202404100631346_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD0BB28-FA91-441F-93D8-5B3D14F5496E}|WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo.csproj|C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\webapicrudcodefirstdemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD0BB28-FA91-441F-93D8-5B3D14F5496E}|WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo.csproj|solutionrelative:webapicrudcodefirstdemo\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD0BB28-FA91-441F-93D8-5B3D14F5496E}|WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo.csproj|c:\\users\\bihela.wanasekara\\documents\\testing\\webapicrudcodefirstdemo\\webapicrudcodefirstdemo\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD0BB28-FA91-441F-93D8-5B3D14F5496E}|WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo.csproj|solutionrelative:webapicrudcodefirstdemo\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2DD0BB28-FA91-441F-93D8-5B3D14F5496E}|WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo.csproj|C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\webapicrudcodefirstdemo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2DD0BB28-FA91-441F-93D8-5B3D14F5496E}|WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo.csproj|solutionrelative:webapicrudcodefirstdemo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "202404100631346_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo\\Migrations\\202404100631346_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WebApiCrudCodeFirstDemo\\Migrations\\202404100631346_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo\\Migrations\\202404100631346_InitialCreate.cs",
+              "RelativeToolTip": "WebApiCrudCodeFirstDemo\\Migrations\\202404100631346_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T06:32:20.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo\\App_Start\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "WebApiCrudCodeFirstDemo\\App_Start\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo\\App_Start\\SwaggerConfig.cs",
+              "RelativeToolTip": "WebApiCrudCodeFirstDemo\\App_Start\\SwaggerConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:27:18.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "WebApiCrudCodeFirstDemo\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "WebApiCrudCodeFirstDemo\\Migrations\\Configuration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:22:49.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "WebApiCrudCodeFirstDemo\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\bihela.wanasekara\\Documents\\Testing\\WebApiCrudCodeFirstDemo\\WebApiCrudCodeFirstDemo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "WebApiCrudCodeFirstDemo\\Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T05:21:56.18Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
