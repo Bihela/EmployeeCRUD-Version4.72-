@@ -13,7 +13,7 @@ namespace WebApiCrudCodeFirstDemo.Migrations
         
         string IMigrationMetadata.Id
         {
-            get { return "202207301436567_InitialCreate"; }
+            get { return "202404100631346_InitialCreate"; }
         }
         
         string IMigrationMetadata.Source
